@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bulletr"]
+	path = bulletr
+	url = https://github.com/erichare/bulletr
+	shallow = true
+	registered = true
+[submodule "discreteRV"]
+	path = discreteRV
+	url = https://github.com/erichare/discreterv
+	shallow = true
+	registered = true
