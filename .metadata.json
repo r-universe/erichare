@@ -2,9 +2,5 @@
   {
     "package": "bulletr",
     "oncran": true
-  },
-  {
-    "package": "discreteRV",
-    "oncran": true
   }
 ]
