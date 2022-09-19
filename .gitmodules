@@ -8,3 +8,8 @@
 	url = https://github.com/erichare/bulletr
 	shallow = true
 	registered = true
+[submodule "discreteRV"]
+	path = discreteRV
+	url = https://github.com/erichare/discreterv
+	shallow = true
+	registered = true
