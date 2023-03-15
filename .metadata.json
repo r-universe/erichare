@@ -1,10 +1,10 @@
 [
   {
-    "package": "bulletr",
+    "package": "discreteRV",
     "oncran": true
   },
   {
-    "package": "discreteRV",
+    "package": "bulletr",
     "oncran": true
   }
 ]
